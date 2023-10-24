@@ -21,6 +21,8 @@ Defasio 2 de correção de bugs, promovido pela Rocketseat para ensino de tecnol
   <img alt="projeto treine.me" src="./images/readme.png" width="100%">
 </p>
 
+[🔗 Clique aqui para acessar](https://devleuuon.github.io/challenge2/)
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
